@@ -1,0 +1,43 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;"What are the basic OSHA requirements for job site toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">OSHA requires readily available, sanitary toilet facilities for all employees. The number of units depends on the crew size. For 20 or more employees, specific ratios apply.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is hand sanitizer enough, or do I need a handwashing station?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For exposure to chemicals, paints, caustics, or in many food-service environments, OSHA requires soap and running water. A standalone handwashing station is the best way to ensure compliance in these cases.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What's included in your rental price?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our portable toilet rental prices include the delivery, placement, and pickup of the unit, as well as the legal and safe disposal of all waste by our licensed technicians.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What makes your service "compliant"?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our units are maintained to the highest standards of cleanliness. We understand the specific OSHA and health department regulations and we provide the right equipment and service schedule to ensure your site or event meets them.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
